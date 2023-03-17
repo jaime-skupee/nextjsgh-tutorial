@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Nextjs CICD
+          Nextjs CICD Hello World PM2
         </h1>
 
         <p className={styles.description}>
